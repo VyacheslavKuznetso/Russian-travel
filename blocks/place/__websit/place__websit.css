@@ -1,0 +1,49 @@
+.place__websit {
+    padding: 0;
+    margin: 0;
+    align-self: flex-end;
+    list-style-type: none;
+}
+
+@media screen and (max-width: 1152px) {
+    .place__websit {
+        max-width: 450px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place__websit {
+        max-width: 440px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__websit {
+        max-width: 340px;
+    }
+}
+
+@media screen and (max-width: 668px) {
+    .place__websit {
+        padding-left: 16px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .place__websit {
+        padding-left: 16px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .place__websit {
+        padding-left: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__websit {
+        padding-left: 16px;
+        max-width: 288px;
+    }
+}
