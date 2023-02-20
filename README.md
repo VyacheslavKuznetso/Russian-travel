@@ -5,4 +5,4 @@
 В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
 Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
  * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
- * ![__image-5](https://user-images.githubusercontent.com/121261866/220064338-da04c94c-ac01-42b5-857c-ca58357c39b1.png width: 1280px)
+ * ![__image-5](https://user-images.githubusercontent.com/121261866/220064338-da04c94c-ac01-42b5-857c-ca58357c39b1.png)
