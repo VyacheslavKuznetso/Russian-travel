@@ -12,3 +12,19 @@
     font-family: "Inter";
     src: url(/vendor/fonts/inter/Inter-Bold.otf) format("otf");
 }
+
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    text-rendering: optimizeLegibility;
+}
+
+.page {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}
