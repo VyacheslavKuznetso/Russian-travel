@@ -1,4 +1,4 @@
-.sled__subtitle {
+.lead__subtitle {
     max-width: 50%;
     margin: 0 0 64px 0;
     align-self: center;
@@ -12,7 +12,7 @@
 }
 
 @media screen and (max-width: 1024px){
-    .sled__subtitle {
+    .lead__subtitle {
         margin: 0 0 56px 0;
         font-weight: 400;
         font-size: 30px;
@@ -22,7 +22,7 @@
 }
 
 @media screen and (max-width: 768px){
-    .sled__subtitle {
+    .lead__subtitle {
         margin: 0 0 56px 0;
         font-weight: 400;
         font-size: 30px;
@@ -31,7 +31,7 @@
 }
 
 @media screen and (max-width: 425px){
-    .sled__subtitle {
+    .lead__subtitle {
         font-weight: 400;
         font-size: 23px;
         line-height: 20px;
@@ -39,7 +39,7 @@
 }
 
 @media screen and (max-width: 375px){
-    .sled__subtitle {
+    .lead__subtitle {
         font-weight: 400;
         font-size: 16px;
         line-height: 20px;
@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 320px){
-    .sled__subtitle {
+    .lead__subtitle {
         margin: 0 0 40px 0;
         font-weight: 400;
         font-size: 16px;
