@@ -1,7 +1,7 @@
 .lead {
     width: 76.80%;
     margin-top: 56px;
-    margin: 0 auto;
+    position: relative;
     display: flex;
     flex-direction: column;
     align-self: center;
@@ -19,34 +19,29 @@
 @media screen and (max-width: 1024px){
     .lead {
         min-width: 90.7%;
-        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 768px){
     .lead {
         min-width: 100%;
-        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 425px){
     .lead {
         min-width: 100%;
-        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 375px){
     .lead {
         min-width: 100%;
-        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 320px){
     .lead {
         min-width: 100%;
-        margin-top: 48px;
     }
 }
