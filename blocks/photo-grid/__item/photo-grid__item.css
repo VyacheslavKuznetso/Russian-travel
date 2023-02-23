@@ -1,51 +1,5 @@
 .photo-grid__item {
-    max-width: 284px;
+    max-width: 100%;
     display: block;
     object-fit: cover;
-}
-
-
-@media screen and (max-width: 1024px) {
-    .photo-grid__item {
-        max-width: 300px;
-    }
-}
-
-@media screen and (max-width: 940px) {
-    .photo-grid__item {
-        max-width: 270px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .photo-grid__item {
-        max-width: 352px;
-        
-    }
-}
-
-@media screen and (max-width: 720px) {
-    .photo-grid__item {
-        max-width: 332px;
-        
-    }
-}
-
-@media screen and (max-width: 685px) {
-    .photo-grid__item {
-        max-width: 300px;
-        
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .photo-grid__item {
-        max-width: 320px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .photo-grid__item {
-        width: 288px;
-    }
 }
