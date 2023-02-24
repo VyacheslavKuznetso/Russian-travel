@@ -1,18 +1,20 @@
 @font-face {
     src: url("/vendor/fonts/inter/Inter-Black.otf") format("otf");
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter";
+    font-weight: 900;
 }
 
 @font-face {
     src: url("/vendor/fonts/inter/Inter-Regular.otf") format("otf");
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter";
+    font-weight: normal;
 }
 
 @font-face {
     src: url("/vendor/fonts/inter/Inter-Bold.otf") format("otf");
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter";
+    font-weight: 700;
 }
-
 
 html {
     -webkit-font-smoothing: antialiased;
