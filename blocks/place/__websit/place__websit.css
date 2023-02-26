@@ -29,21 +29,9 @@
     }
 }
 
-@media screen and (max-width: 425px) {
-    .place__websit {
-        padding-left: 16px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .place__websit {
-        padding-left: 16px;
-    }
-}
 
 @media screen and (max-width: 320px) {
     .place__websit {
-        padding-left: 16px;
         max-width: 288px;
     }
 }

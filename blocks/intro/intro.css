@@ -1,4 +1,5 @@
 .intro {
+    font-family:'Inter', Arial, sans-serif;
     width: 54%;
     align-self: flex-start;
     margin: 92px 0 0 148px;
@@ -21,13 +22,6 @@
 }
 
 @media screen and (max-width: 375px){
-    .intro {
-        width: 94%;
-        margin: 68px auto 0;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .intro {
         width: 94%;
         margin: 68px auto 0;

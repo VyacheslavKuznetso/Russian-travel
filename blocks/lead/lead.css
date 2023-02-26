@@ -1,13 +1,12 @@
 .lead {
-    width: 76.80%;
+    font-family:'Inter', Arial, sans-serif;
+    max-width: 76.80%;
     margin-top: 56px;
     position: relative;
     display: flex;
     flex-direction: column;
     align-self: center;
 }
-
-
 
 @media screen and (max-width: 1152px){
     .lead {
@@ -18,30 +17,13 @@
 
 @media screen and (max-width: 1024px){
     .lead {
-        min-width: 90.7%;
+        max-width: 90.7%;
     }
 }
 
 @media screen and (max-width: 768px){
     .lead {
-        min-width: 100%;
+        max-width: 100%;
     }
 }
 
-@media screen and (max-width: 425px){
-    .lead {
-        min-width: 100%;
-    }
-}
-
-@media screen and (max-width: 375px){
-    .lead {
-        min-width: 100%;
-    }
-}
-
-@media screen and (max-width: 320px){
-    .lead {
-        min-width: 100%;
-    }
-}

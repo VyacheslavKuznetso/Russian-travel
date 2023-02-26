@@ -3,7 +3,6 @@
     margin: 0 0 64px 0;
     align-self: center;
     color: #FFFFFF;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -36,6 +35,13 @@
     .lead__subtitle {
         max-width: 90%;
         margin: 0 0 40px 0;
+        
+    }
+}
+
+@media screen and (max-width: 414px){
+    .lead__subtitle {
+        font-size: 18px;
         
     }
 }

@@ -4,39 +4,19 @@
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
     row-gap: 16px;
     column-gap: 16px;
 }
 
 @media screen and (max-width: 1200px){
     .photo-grid {
-        display: grid;
-        justify-content: center;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(4, 1fr);
-        row-gap: 16px;
-        column-gap: 16px;
     }
 }
 
-@media screen and (max-width: 1152px){
-    .photo-grid {
-        display: grid;
-        justify-content: center;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(4, 1fr);
-        row-gap: 16px;
-        column-gap: 16px;
-    }
-}
 
 @media screen and (max-width: 1024px) {
     .photo-grid {
-        display: grid;
-        justify-content: center;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(4, 1fr);
         row-gap: 14px;
         column-gap: 14px;   
     }
@@ -50,7 +30,6 @@
         display: grid;
         justify-content: center;
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(6, 1fr);
         row-gap: 16px;
         column-gap: 16px;   
     }
@@ -58,47 +37,16 @@
 
 @media screen and (max-width: 600px){
     .photo-grid {
-        max-width: 93.75%;
-        display: grid;
-        justify-content: center;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(12, 1fr);
-        row-gap: 16px;
-        column-gap: 16px;   
+        grid-template-columns: repeat(1, 1fr); 
     }
 }
 
-@media screen and (max-width: 425px){
-    .photo-grid {
-        max-width: 93.75%;
-        display: grid;
-        justify-content: center;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(12, 1fr);
-        row-gap: 16px;
-        column-gap: 16px;   
-    }
-}
 
 @media screen and (max-width: 375px){
     .photo-grid {
         max-width: 90%;
         margin-top: 64px;
-        display: grid;
-        justify-content: center;
         grid-template-columns: repeat(1, minmax(min-content, max-content));
-        grid-template-rows: repeat(12, minmax(min-content, max-content));
-        row-gap: 12px;   
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .photo-grid {
-        max-width: 90%;
-        display: grid;
-        justify-content: center;
-        grid-template-columns: repeat(1, minmax(min-content, max-content));
-        grid-template-rows: repeat(12, minmax(min-content, max-content));
         row-gap: 12px;   
     }
 }

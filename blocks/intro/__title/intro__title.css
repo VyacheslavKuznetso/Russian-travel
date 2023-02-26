@@ -9,16 +9,8 @@
 
 @media screen and (max-width: 768px) {
     .intro__title {
-                color: #FFFFFF;
         font-size: 32px;
         line-height: 35px;
     }
 }
 
-@media screen and (max-width: 320px) {
-    .intro__title {
-        color: #FFFFFF;
-        font-size: 32px;
-        line-height: 35px;
-    }
-}
