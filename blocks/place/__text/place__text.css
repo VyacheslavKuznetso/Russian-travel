@@ -23,10 +23,15 @@
 
 @media screen and (max-width: 768px) {
     .place__text {
-        padding-left: 16px;
         max-width: 340px;
         font-size: 42px;
         line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 668px) {
+    .place__text {
+        padding-left: 16px;
     }
 }
 

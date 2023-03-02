@@ -4,11 +4,10 @@
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
-    text-decoration-line: none;
+    text-decoration: none;
 }
 
 
 .header__lang-link:hover {
-    opacity: 0.5;
-    text-decoration-line: underline;
+    opacity: 0.8;
 }
