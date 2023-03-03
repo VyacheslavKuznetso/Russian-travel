@@ -4,4 +4,4 @@
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 * В адаптивном проекте било применино техника Desktop First. Также, по мимо flexbox, использовались технология постраения сетки - Grig Layout. 
 
-<img src="images/__image-5.png" width="100%">
+<img src="images/__image-readme.jpg" width="100%">
