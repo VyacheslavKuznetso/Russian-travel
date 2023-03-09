@@ -8,7 +8,7 @@
     color: #FFFFFF;
 }
 
-.footer__link:last-child {
+.footer__link-list li:last-of-type .footer__link {
     margin-right: 0;
 }
 
@@ -21,13 +21,8 @@
 
 @media screen and (max-width: 425px) {
     .footer__link {
-        margin-bottom: 32px;
         margin-right: 0;
         font-size: 24px;
         line-height: 24px;
-    }
-
-    .footer__link:last-child {
-        margin-bottom: 0;
     }
 }
