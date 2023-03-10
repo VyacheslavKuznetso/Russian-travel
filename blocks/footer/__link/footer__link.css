@@ -1,15 +1,10 @@
 .footer__link {
     text-decoration: none;
-    margin-right: 18px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
-}
-
-.footer__link-list li:last-of-type .footer__link {
-    margin-right: 0;
 }
 
 

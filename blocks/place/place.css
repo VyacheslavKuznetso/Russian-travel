@@ -17,6 +17,7 @@
         grid-template-columns: repeat(1, minmax(min-content, max-content));
         grid-template-rows: repeat(3, minmax(min-content, max-content));
         row-gap: 32px;
+        margin: 0 auto 50px;
     }
 }
 
